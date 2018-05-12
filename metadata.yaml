@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5276
     wikipedia: http://en.wikipedia.org/wiki/Robert_Chambers_%28publisher_born_1802%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35602#The-Romantic-Scottish-Ballads--Their-Epoch-and-Authorship
 gutenberg_issued: '2011-03-18'
 gutenberg_type: Text
 identifiers:
